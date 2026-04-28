@@ -6,6 +6,32 @@ Built as a hands-on exploration of unsupervised learning techniques.
 
 ---
 
+## Visualization
+<p align="center">
+  <img src = "assets/agglomerative.png" width = "600">
+</p>
+
+<p align = "center">
+  Agglomerative method output
+</p>
+
+<p align="center">
+  <img src = "assets/DBscan.png" width = "600">
+</p>
+
+<p align = "center">
+  DBScan method output
+</p>
+
+<p align="center">
+  <img src = "assets/k-means.png" width = "600">
+</p>
+
+<p align = "center">
+  K-means method output
+</p>
+
+
 ## Algorithms Included
 
 | Algorithm | Best For |
